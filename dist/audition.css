@@ -9123,3 +9123,17 @@ a.text-dark:focus {
   }
 }
 
+@font-face {
+  font-family: "Mulish";
+  src: url(/fonts/mulish.ttf?2ea3e31b7bdb1314ce72fc8ecb4908a7);
+}
+
+body {
+  font-family: "Mulish", sans-serif;
+}
+
+strong {
+  font-family: "Mulish", sans-serif;
+  font-weight: bold;
+}
+
